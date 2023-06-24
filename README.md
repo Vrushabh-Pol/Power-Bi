@@ -1,3 +1,2 @@
-# Data-Science-Assignments
+# Power BI Dashboards
 
-Here are all ML Models and its assignments
